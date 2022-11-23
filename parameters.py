@@ -3,14 +3,14 @@
 DRY_RUN = False 
 
 # parametros xoms
-api_url = # url api rest xoms 
-ws_url =  # url api ws xoms
+api_url = # url api rest xoms. por ej «https://api.slug.xoms.com.ar»
+ws_url =  # url api ws xoms. por ej «wss://api.slug.xoms.com.ar»
 username = # username
 password = # password
 account = # nro de cuenta
 
 # parametros sheets
-sheets_credentials = # archivo json de sheets api
+sheets_credentials = # archivo json de sheets api. se genera desde cloud console de google
 sheets_workbook =   # codigo de la planilla live
 sheets_worksheet = # nombre de la hoja
 sheets_ranges = ['A2:N1000', 'P2'] # rango a editar
