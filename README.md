@@ -1,6 +1,6 @@
 # md_sheets_v1
 
-Script para suscribirse a MD y subirla a Google Drive.
+Script para suscribirse a MD y publicarla en Google Drive.
 
 Lo tengo corriendo en una VM en linux, lo ejecuto desde crontab. 
 
