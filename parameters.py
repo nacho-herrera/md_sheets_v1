@@ -30,4 +30,4 @@ log_rotation_backups = 3
 # parametros horarios
 WAIT_TIME = 5 # minutos
 HORA_INICIO = "10:55:00" # inicio de rueda
-HORA_FIN = "17:05:00"  # fin de rueda
+HORA_FIN = "18:05:00"  # fin de rueda
